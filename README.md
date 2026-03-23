@@ -13,7 +13,7 @@ I’m actively seeking an entry‑level SOC Analyst / Junior Cyber Security Anal
 | Skill                                           | Associated Project / Lab                                        |
 |------------------------------------------------|------------------------------------------------------------------|
 | SIEM log analysis & dashboarding (Splunk, ELK) | https://github.com/Fadimsa/log-analysis-with-SIEM – SOC Log Analysis & Dashboards                   |
-| Threat hunting & IOC analysis                  | `Coming Soon` – Threat Hunting with Splunk & Wireshark          |
+| Threat hunting & IOC analysis                  |https://github.com/Fadimsa/Threat-Hunting-IOC-Analysis-Splunk-VirusTotal-/blob/main/README.md         |
 | Incident triage and escalation                 | TryHackMe SOC Level 1 & 2 Path Labs                             |
 | Vulnerability assessment & reporting           | `Coming Soon` – Network & Web App Vulnerability Assessment Lab  |
 | Web & network penetration testing              | `Coming Soon` – Web App Security Testing (OWASP Top 10)         |
