@@ -71,8 +71,7 @@ I’m actively seeking an entry‑level SOC Analyst / Junior Cyber Security Anal
 - **SOC Labs – TryHackMe SOC Level 1 & 2**  
   Alert handling, SIEM investigations, log analysis, incident documentation, and detection tuning in simulated SOC environments.
 
-- **Vulnerability Assessment & Threat Hunting (Volunteer Work)**  
-  Led vulnerability assessments and threat hunting using Splunk and Wireshark to identify and investigate suspicious activity in real infrastructure.
+  
 
 - **Cloud Honeypot & ELK Monitoring** *(In progress)*  
   Deploying honeypots on AWS/Azure and forwarding logs into ELK for dashboarding, attack pattern analysis, and detection idea generation.
