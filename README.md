@@ -17,7 +17,7 @@ I’m actively seeking an entry‑level SOC Analyst / Junior Cyber Security Anal
 | Incident triage and escalation                 | TryHackMe SOC Level 1 & 2 Path Labs                             |
 | Vulnerability assessment & reporting           | https://github.com/Fadimsa/Vulnerability-assessment-reporting/blob/main/README.md  |
 | Web & network penetration testing              | https://github.com/Fadimsa/Web-network-penetration-testing/blob/main/README.md         |
-| Cloud security (AWS/Azure) & honeypots         | `Coming Soon` – Cloud Honeypot & ELK Monitoring                 |
+| Cloud security (AWS/Azure) & honeypots         | https://github.com/Fadimsa/Cloud-security-Azure-honeypots/tree/main                 |
 | Python/Bash scripting for security automation  | `Coming Soon` – Log Parsing & Recon Automation Scripts          |
 
 
@@ -73,8 +73,9 @@ I’m actively seeking an entry‑level SOC Analyst / Junior Cyber Security Anal
 
   
 
-- **Cloud Honeypot & ELK Monitoring** *(In progress)*  
+- **Cloud Honeypot & ELK Monitoring** 
   Deploying honeypots on AWS/Azure and forwarding logs into ELK for dashboarding, attack pattern analysis, and detection idea generation.
+  https://github.com/Fadimsa/Cloud-security-Azure-honeypots/tree/main
 
 - **Security Automation Scripts** *(In progress)*  
   Python and Bash scripts for log parsing, reconnaissance automation, and small helper tools for day‑to‑day SOC tasks.
